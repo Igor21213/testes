@@ -1,0 +1,105 @@
+body{
+	background-color:#000000 ;
+}
+
+.phone{
+	height: 449px;
+	width: 687px;
+	background: url('c.png')no-repeat;
+	background-size:cover;
+	margin-left: 300px;
+}
+
+.header{
+	color: #ffffff;
+	position: absolute;
+	margin-left: 70px;
+	font-size: 64px;
+	top: 80px;
+}
+
+.text{
+	color: #ffffff;
+	position: absolute;
+	margin-left: 60px;
+	font-size: 40px;
+	top: 170px;
+}
+
+.phone1{
+	background: #2DC7DC;
+	background-size: cover;
+	width: 687px;
+	height: 2333px;
+	margin-left: 300px;
+}
+
+.sh{
+	margin-left: 30px;
+	position: relative;
+	top: 100px;
+}
+
+.god{
+	margin-left: 420px;
+	position: relative;
+	top: -50px;
+}
+
+.tex{
+	color: white;
+	font-size: 20px;
+	margin-left: 20px;
+	width: 378px;
+}
+
+.te{
+	color: #ffffff;
+	margin-left: 200px;
+	font-size: 64px;
+}
+
+.cat{
+	position: absolute;
+	top: 1100px;
+}
+
+.ca{
+	position: absolute;
+	top: 1300px;
+	margin-left: 300px;
+}
+
+.caa{
+	position: absolute;
+	top: 1650px;
+	margin-left: -10px;
+}
+
+.example{
+	font-size: 40px;
+	margin-left: 200px;
+	position: absolute;
+	top: 2000px;
+	color: white;
+}
+
+.isa{
+	position: absolute;
+	top: 2100px;
+	width: 562px;
+	font-size: 20px;
+	margin-left: 50px;
+}
+
+.r{
+	position: absolute;
+	top: 2300px;
+	margin-left: 50px;
+}
+
+.safw{
+	position: absolute;
+	top: 2550px;
+	margin-left: 400px;
+}
